@@ -1,5 +1,5 @@
 1. To play the Dino game, open index.html file
-2. Random password generator using user provided char type and length
+2. Random password generator using user provided char type and length (Random_passwordCreator.py file)
     => -l, for lowercases
     => -u, for uppercases
     => -d, for digits
